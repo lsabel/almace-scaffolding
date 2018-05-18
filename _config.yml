@@ -104,7 +104,7 @@ description:    Almace Scaffolding - Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        /almace-scaffolding/
 
 # CSS path used in templates
 #
